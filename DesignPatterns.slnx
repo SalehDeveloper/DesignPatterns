@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Behavioural/" />
+  <Folder Name="/Behavioural/Memento/">
+    <Project Path="MementoPattern/MementoPattern.csproj" />
+  </Folder>
+</Solution>
